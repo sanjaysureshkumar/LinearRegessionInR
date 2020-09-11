@@ -67,7 +67,7 @@ abline(Intercept,Hour,lwd=2.5,lty=2,col="green")
 
 #Copying the plot to a seperate .png file
 
-dev.copy(png,"LinearReg.png")
+dev.copy(png,"Intern.png")
 dev.off()
 
 
